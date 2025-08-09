@@ -1,33 +1,33 @@
 {
-    "name": "Luxury NYC Penthouse",
-    "address": "157 W 57th St APT 49B, New York, NY 10019",
-    "description": "Luxury Penthouse located in the heart of NYC",
-    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/1.png",
-    "id": "1",
-    "attributes": [
-        {
-            "trait_type": "Purchase Price",
-            "value": 20
-        },
-        {
-            "trait_type": "Type of Residence",
-            "value": "Condo"
-        },
-        {
-            "trait_type": "Bed Rooms",
-            "value": 2
-        },
-        {
-            "trait_type": "Bathrooms",
-            "value": 3
-        },
-        {
-            "trait_type": "Square Feet",
-            "value": 2200
-        },
-        {
-            "trait_type": "Year Built",
-            "value": 2013
-        }
-    ]
+  "name": "Beautiful Family Home",
+  "description": "This stunning 4-bedroom, 3-bathroom home features modern amenities and a spacious layout perfect for families. Located in a quiet neighborhood with excellent schools nearby.",
+  "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=500",
+  "id": "1",
+  "address": "123 Main Street, Anytown USA",
+  "attributes": [
+    {
+      "trait_type": "Purchase Price",
+      "value": "20"
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Condo"
+    },
+    {
+      "trait_type": "Bed Rooms",
+      "value": "4"
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": "3"
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": "2500"
+    },
+    {
+      "trait_type": "Year Built",
+      "value": "2019"
+    }
+  ]
 }

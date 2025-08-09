@@ -1,33 +1,33 @@
 {
-    "name": "WA Nature Home",
-    "address": "183 Woodland Drive, Camano Island, WA 98282",
-    "description": "Comfy island home on Camano Island",
-    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/3.png",
+    "name": "Cozy Suburban House",
+    "address": "789 Oak Street, Suburbia Heights",
+    "description": "Charming 3-bedroom house in a family-friendly neighborhood. Features a large backyard, updated kitchen, and close to parks and schools.",
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500",
     "id": "3",
     "attributes": [
         {
             "trait_type": "Purchase Price",
-            "value": 10
+            "value": "10"
         },
         {
             "trait_type": "Type of Residence",
-            "value": "Single family residence"
+            "value": "Single Family"
         },
         {
             "trait_type": "Bed Rooms",
-            "value": 3
+            "value": "3"
         },
         {
             "trait_type": "Bathrooms",
-            "value": 3
+            "value": "2"
         },
         {
             "trait_type": "Square Feet",
-            "value": 2202
+            "value": "1600"
         },
         {
             "trait_type": "Year Built",
-            "value": 2020
+            "value": "2015"
         }
     ]
 }
